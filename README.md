@@ -1,6 +1,6 @@
 Olá, eu sou o João!
 - Hoje trabalho com front-end
-- Estudando Analise e desenvolvimento de Sistemas - Uninove
+- Estudando Analise e desenvolvimento de Sistemas - Fiap
 - Pronouns: Ele/Dele
 
 <div align="center">
