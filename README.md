@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o João Paulo 👋</h1>
 
 <p align="center">
-  <em>Data Engineering Coordinator • Front-end Developer • Estudante de ADS na FIAP</em>
+  <em>Data Engineering | Software Engineering</em>
 </p>
 
 ---
@@ -24,7 +24,7 @@
 
 ### 🧠 Sobre mim
 
-- 🧭 Coordenador de Tecnologia e Inovação
+- 🧭 Coordenador de Tecnologia e Inovação na Universidade Presbiteriana Mackenzie
 - 📍 Barueri/SP
 
 ### 🛠️ Stack
@@ -35,6 +35,11 @@
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+</p>
+
+
+<p align="center">
+  <em>Construindo um commit por vez.</em> 🟩
 </p>
 
 
